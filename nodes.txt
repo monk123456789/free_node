@@ -1,4 +1,6 @@
 [
+	{"remarks": "中国-广东-广州-ss-p1.bxy-fun3.com:35127", "server": "43.207.225.151", "password": "amazonskr05", "server_port": "443", "method": "aes-256-cfb", "timeout": 300, "fast_open": false, "used_time": 3.2344538809993537},
+	{"remarks": "中国-广东-广州-ss-14.29.124.168:25219", "server": "52.36.146.173", "password": "amazonskr05", "server_port": "443", "method": "aes-256-cfb", "timeout": 300, "fast_open": false, "used_time": 3.575641077999535},
 	{"remarks": "沙特阿拉伯+Arabic+Computer+System+Co.", "server": "85.208.108.60", "password": "cdBIDV42DCwnfIN", "server_port": "8118", "method": "aes-256-gcm", "timeout": 300, "fast_open": false, "used_time": 4.42114997400131},
 	{"remarks": "中国-广东-广州-ss-14.29.124.168:25280", "server": "13.215.159.170", "password": "amazonskr05", "server_port": "443", "method": "aes-256-cfb", "timeout": 300, "fast_open": false, "used_time": 4.960279311002523},
 	{"remarks": "中国澳大利亚-0-0-ss-43.201.86.41:443", "server": "14.29.124.168", "password": "QazEdcTgb159@$*", "server_port": "24002", "method": "aes-128-cfb", "timeout": 300, "fast_open": false, "used_time": 5.944561159999921},
