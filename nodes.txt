@@ -1,7 +1,6 @@
 [
+	{"remarks": "中国-广东-广州-ss-14.29.124.168:25238", "server": "43.207.120.229", "password": "amazonskr05", "server_port": "443", "method": "aes-256-cfb", "timeout": 300, "fast_open": false, "used_time": 2.682927951000238},
 	{"remarks": "中国-广东-广州-ss-14.29.124.168:25219", "server": "52.36.146.173", "password": "amazonskr05", "server_port": "443", "method": "aes-256-cfb", "timeout": 300, "fast_open": false, "used_time": 3.575641077999535},
-	{"remarks": "沙特阿拉伯+Arabic+Computer+System+Co.", "server": "85.208.108.60", "password": "cdBIDV42DCwnfIN", "server_port": "8118", "method": "aes-256-gcm", "timeout": 300, "fast_open": false, "used_time": 4.42114997400131},
-	{"remarks": "中国-广东-0-ss-120.233.31.72:39330", "server": "172.99.188.99", "password": "kDWvXYZoTBcGkC4", "server_port": "8882", "method": "aes-256-gcm", "timeout": 300, "fast_open": false, "used_time": 7.551427088001219},
 	{"remarks": "中国-0-0-ss-36.138.140.208:11023", "server": "13.215.183.79", "password": "doub.io", "server_port": "443", "method": "aes-256-cfb", "timeout": 300, "fast_open": false, "used_time": 8.165360364000662},
 	{"remarks": "43.207.160.88_443", "server": "43.207.160.88", "password": "doub.io", "server_port": "443", "method": "aes-256-cfb", "timeout": 300, "fast_open": false, "used_time": 8.200431389000073},
 	{"remarks": "澳大利亚-0-0-ss-43.201.48.212:443", "server": "43.207.117.53", "password": "amazonskr05", "server_port": "443", "method": "aes-256-cfb", "used_time": 9.044795462003094, "timeout": 300, "fast_open": false},
@@ -30,6 +29,7 @@
 	{"remarks": "中国-广东-广州-ss-p1.bxy-fun3.com:23100", "server": "85.208.108.60", "password": "Y6R9pAtvxxzmGC", "server_port": "5600", "method": "aes-256-gcm", "timeout": 300, "fast_open": false, "used_time": 257.18292903399924},
 	{"remarks": "美国-弗吉尼亚-阿什本-ssr-playweb.ml:6983", "server": "85.208.108.60", "password": "kDWvXYZoTBcGkC4", "server_port": "8881", "method": "aes-256-gcm", "timeout": 300, "fast_open": false, "used_time": 257.6615780939992},
 	{"remarks": "日本-东京都-东京-ss-85.208.108.60:5004", "server": "172.99.188.99", "password": "Y6R9pAtvxxzmGC", "server_port": "8888", "method": "aes-256-gcm", "used_time": 258.0137658879994, "timeout": 300, "fast_open": false},
+	{"remarks": "韩国-首尔-首尔-ss-3.38.101.181:443", "server": "43.207.221.161", "password": "amazonskr05", "server_port": "443", "method": "aes-256-cfb", "timeout": 300, "fast_open": false, "used_time": 258.2733889489991},
 	{"remarks": "中国-广东-广州-ss-14.29.124.168:24004", "server": "43.201.14.240", "password": "amazonskr05", "server_port": "443", "method": "aes-256-cfb", "timeout": 300, "fast_open": false, "used_time": 259.3075536489923},
 	{"remarks": "美国-弗吉尼亚-阿什本-ssr-playweb.ml:6983", "server": "13.213.41.142", "password": "amazonskr05", "server_port": "443", "method": "aes-256-cfb", "timeout": 300, "fast_open": false, "used_time": 259.73393234200194},
 	{"remarks": "新加坡-0-0-ss-13.229.181.247:443", "server": "13.215.177.64", "password": "amazonskr05", "server_port": "443", "method": "aes-256-cfb", "timeout": 300, "fast_open": false, "used_time": 261.26103241800047},
