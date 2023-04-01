@@ -1,4 +1,6 @@
 [
+	{"remarks": "澳大利亚-0-0-ss-43.207.214.255:443", "server": "43.200.6.0", "password": "amazonskr05", "server_port": "443", "method": "aes-256-cfb", "timeout": 300, "fast_open": false, "used_time": 1.5472451410023496},
+	{"remarks": "中国-广东-广州-ss-14.29.124.168:25210", "server": "43.200.6.15", "password": "amazonskr05", "server_port": "443", "method": "aes-256-cfb", "timeout": 300, "fast_open": false, "used_time": 2.1962754920023144},
 	{"remarks": "中国-广东-广州-ss-14.29.124.168:25238", "server": "43.207.120.229", "password": "amazonskr05", "server_port": "443", "method": "aes-256-cfb", "timeout": 300, "fast_open": false, "used_time": 2.682927951000238},
 	{"remarks": "中国-广东-广州-ss-14.29.124.168:25219", "server": "52.36.146.173", "password": "amazonskr05", "server_port": "443", "method": "aes-256-cfb", "timeout": 300, "fast_open": false, "used_time": 3.575641077999535},
 	{"remarks": "中国-0-0-ss-36.138.140.208:11023", "server": "13.215.183.79", "password": "doub.io", "server_port": "443", "method": "aes-256-cfb", "timeout": 300, "fast_open": false, "used_time": 8.165360364000662},
