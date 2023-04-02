@@ -1,5 +1,4 @@
 [
-	{"remarks": "澳大利亚-0-0-ss-43.207.214.255:443", "server": "13.213.55.42", "password": "amazonskr05", "server_port": "443", "method": "aes-256-cfb", "timeout": 300, "fast_open": false, "used_time": 1.3420527719936217},
 	{"remarks": "中国-广东-广州-ss-14.29.124.168:25283", "server": "3.1.50.20", "password": "amazonskr05", "server_port": "443", "method": "aes-256-cfb", "timeout": 300, "fast_open": false, "used_time": 1.3891138510007295},
 	{"remarks": "韩国-首尔-首尔-ss-3.38.101.181:443", "server": "43.207.221.161", "password": "amazonskr05", "server_port": "443", "method": "aes-256-cfb", "used_time": 1.3955297719985538, "timeout": 300, "fast_open": false},
 	{"remarks": "中国-广东-广州-ss-14.29.124.168:25252", "server": "43.201.48.212", "password": "amazonskr05", "server_port": "443", "method": "aes-256-cfb", "timeout": 300, "fast_open": false, "used_time": 1.4434409189998405},
@@ -31,6 +30,7 @@
 	{"remarks": "澳大利亚-0-0-ss-43.201.149.16:443", "server": "43.201.146.202", "password": "amazonskr05", "server_port": "443", "method": "aes-256-cfb", "timeout": 300, "fast_open": false, "used_time": 244.88440742400417},
 	{"remarks": "韩国-首尔-首尔-ss-13.125.75.194:443", "server": "43.201.37.176", "password": "amazonskr05", "server_port": "443", "method": "aes-256-cfb", "timeout": 300, "fast_open": false, "used_time": 247.167030771001},
 	{"remarks": "中国-广东-广州-ss-14.29.124.168:25259", "server": "13.212.38.125", "password": "amazonskr05", "server_port": "443", "method": "aes-256-cfb", "timeout": 300, "fast_open": false, "used_time": 252.28577070300526},
+	{"remarks": "中国澳大利亚-0-0-ss-43.207.66.114:443", "server": "14.29.124.168", "password": "QazEdcTgb159@$*", "server_port": "24007", "method": "aes-128-cfb", "timeout": 300, "fast_open": false, "used_time": 255.76548660099797},
 	{"remarks": "沙特阿拉伯+Arabic+Computer+System+Co.", "server": "85.208.108.60", "password": "RexnBgU7EV5ADxG", "server_port": "7001", "method": "aes-256-gcm", "timeout": 300, "fast_open": false, "used_time": 256.6804233970033},
 	{"remarks": "中国-浙江-丽水-ss-p1.bxy-fun1.com:26105", "server": "85.208.108.60", "password": "g5MeD6Ft3CWlJId", "server_port": "5004", "method": "aes-256-gcm", "timeout": 300, "fast_open": false, "used_time": 256.8139292009946},
 	{"remarks": "澳大利亚-0-0-ss-43.207.120.229:443", "server": "43.206.194.235", "password": "amazonskr05", "server_port": "443", "method": "aes-256-cfb", "timeout": 300, "fast_open": false, "used_time": 256.95814821100066},
