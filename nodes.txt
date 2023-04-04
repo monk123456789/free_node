@@ -1,6 +1,6 @@
 [
 	{"remarks": "美国-俄勒冈-0-ss-54.189.189.150:443", "server": "85.208.108.60", "password": "Y6R9pAtvxxzmGC", "server_port": "8888", "method": "aes-256-gcm", "used_time": 15.03683594000006, "timeout": 300, "fast_open": false},
 	{"remarks": "澳大利亚-0-0-ss-43.207.225.151:443", "server": "85.208.108.60", "password": "FoOiGlkAA9yPEGP", "server_port": "7306", "method": "aes-256-gcm", "used_time": 15.051473290999866, "timeout": 300, "fast_open": false},
-	{"remarks": "中国-广东-广州-ss-14.29.124.168:25280", "server": "85.208.108.60", "password": "Y6R9pAtvxxzmGC", "server_port": "5000", "method": "aes-256-gcm", "used_time": 15.080687868000041, "timeout": 300, "fast_open": false},
-	{"remarks": "中国-0-0-ss-36.139.166.247:11023", "server": "120.240.236.28", "password": "58187267-e3eb-44c9-9fa5-9dc3e90a6ea8", "server_port": "37503", "method": "chacha20-ietf-poly1305", "used_time": 261.38586712200004, "timeout": 300, "fast_open": false}
+	{"remarks": "中国-0-0-ss-36.139.166.247:11023", "server": "120.240.236.28", "password": "58187267-e3eb-44c9-9fa5-9dc3e90a6ea8", "server_port": "37503", "method": "chacha20-ietf-poly1305", "used_time": 261.38586712200004, "timeout": 300, "fast_open": false},
+	{"remarks": "中国-广东-广州-ss-14.29.124.168:25289", "server": "139.226.136.165", "password": "shrikocat!", "server_port": "35495", "method": "aes-256-gcm", "timeout": 300, "fast_open": false, "used_time": 267.5982801250002}
 ]
